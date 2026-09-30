@@ -1,0 +1,33 @@
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Backend build output
+backend/target/
+backend/.mvn/
+
+# Python caches and environments
+forecasting/__pycache__/
+forecasting/.venv/
+forecasting/venv/
+forecasting/*.py[cod]
+forecasting/.pytest_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+**/application-local.properties
+**/application-local.yml
+
+# IDE settings
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db

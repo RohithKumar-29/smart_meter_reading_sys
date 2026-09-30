@@ -1,0 +1,4 @@
+-- DEMO SEED PLACEHOLDER
+-- This file is intentionally empty of INSERT statements.
+-- Add clearly labelled, realistic development/demo data here in a later step.
+-- Never use this file as part of the production schema migration.
